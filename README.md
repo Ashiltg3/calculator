@@ -17,4 +17,4 @@ A simple calculator that performs basic arithmetic operations.
 
 ## Live Demo
 
-You can view the live project here: [Calculator](https://ashiltg3.github.io/calculator)
+You can view the live project here: [Calculator]([https://github.com/Ashiltg3/calculator.git])
