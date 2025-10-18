@@ -11,10 +11,6 @@ A simple calculator that performs basic arithmetic operations.
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
+- C#
 
-## Live Demo
 
-You can view the live project here: [Calculator]([https://github.com/Ashiltg3/calculator.git])
